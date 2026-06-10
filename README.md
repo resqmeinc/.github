@@ -11,7 +11,7 @@ Founded by Laurent Colasse after immigrating to the United States, resqme began 
 
 ## Our History
 
-resqme was incorporated during the dot-com era, a time when the relationship between physical products, digital infrastructure, and public access to information was rapidly changing. While our first major innovation was physical — a compact car escape tool people could keep with them every day — our company has always understood that safety does not exist in isolation.
+resqme was incorporated during the dot-com era, a time when the relationship between physical products, digital infrastructure, and public access to information was rapidly changing. While our first major innovation was physical, a compact car escape tool people could keep with them every day, our company has always understood that safety does not exist in isolation.
 
 Emergency preparedness depends on more than a product. It depends on education, awareness, distribution, data, operational readiness, and the ability to connect the right tools with the right people at the right time.
 
